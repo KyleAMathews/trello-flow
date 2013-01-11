@@ -1,0 +1,12 @@
+{
+  "name": "trello-flow",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "0.x.x",
+    "cron": "1.x.x",
+    "moment": "1.x.x",
+    "mongoose": "3.x",
+    "node-trello": "0.x",
+    "underscore": "1.x"
+  }
+}
